@@ -1,4 +1,4 @@
-import { ChangeEvent, useState } from 'react';
+import { useState } from 'react';
 import { Item } from '../../types/Item';
 import * as C from './styles';
 
